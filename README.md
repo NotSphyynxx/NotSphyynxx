@@ -1,8 +1,6 @@
 <div align="center">
 
-# ⚡ Ismail Larhrib | Cybersecurity & Software Engineering
-
-**`[ALERT] Establishing secure connection... Connection established.`**
+# Ismail Larhrib | Cybersecurity & Software Engineering
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Software+Engineering+%40+1337+(42+Network);SOC+%7C+Digital+Forensics+%7C+Incident+Response;CTF+Competitor+%26+Administrator;Seeking+Final-Year+Internship" alt="Typing SVG" />
 
