@@ -46,9 +46,9 @@ I regularly compete in Jeopardy-style Capture The Flag tournaments as a core com
 
 ---
 
-## 📡 Telemetry & Contact
+## 📡 Contact
 
 <div align="center">
   <a href="mailto:Larhribismail87@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ismail-larhrib-b5291932a/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </div>
+  <a href="https://www.linkedin.com/in/ismail-larhrib-b5291932a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
