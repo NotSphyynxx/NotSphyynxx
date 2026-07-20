@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ismail Larhrib | Cybersecurity & Software Engineering
+# Ismail Larhrib | SecOps & Software Engineering
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+%40+1337+(UM6P);SOC+%7C+Digital+Forensics+%7C+Incident+Response;CTF+Competitor" alt="Typing SVG" />
 
