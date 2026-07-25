@@ -40,16 +40,6 @@ I regularly compete in Jeopardy-style Capture The Flag tournaments as a core com
 
 ---
 
-## 🛠️ Security Arsenal (Notable Projects)
-
-| Project | Description | Technology |
-| :--- | :--- | :--- |
-| **User-Mode Keylogger** | Custom input capturing utility leveraging a web API for logging, designed to study architectural evasion and defensive detection traits. | `C` |
-| **Cloud-Integrated Security Scanner** | Application that interfaces with an external database API to push and log local system scanning results. | `C#` |
-| **Multi-Threaded Port Scanner** | High-speed network enumeration and verification utility utilizing custom socket libraries. | `Python` |
-
----
-
 ## 📡 Contact
 
 <div align="center">
