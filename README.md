@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Purple Cyberpunk Anime Banner from your Live Blog -->
-  <img src="https://sphynx-blogs.vercel.app/banner.gif" width="100%" alt="Sphynx Banner" />
+  <!-- Cat Hacking GIF -->
+  <img src="https://static2.klipy.com/ii/4493325008d34b7bf8cd6813cd5c1619/ff/3c/agPFMKWhM3ouFBN1jqc.gif" width="380" alt="Cat Hacking" style="border-radius: 12px;" />
 
   <br/><br/>
 
@@ -51,7 +51,7 @@ Team: MIR4GE (Founder & Lead)
 Focus: SOC Operations, DFIR, Malware Analysis & Systems Programming
 ```
 
-<img align="right" src="https://sphynx-blogs.vercel.app/pixel-city.gif" width="300" alt="Pixel City GIF" style="border-radius: 8px;" />
+<img align="right" src="https://sphynx-blogs.vercel.app/pixel-city.gif" width="280" alt="Pixel City GIF" style="border-radius: 8px;" />
 
 I am a Software Engineering student at **1337 (42 Network)** with a deep passion for cybersecurity, threat triage, digital forensics, and low-level C/C++ development. 
 
@@ -78,6 +78,8 @@ Outside of engineering, I lead **MIR4GE**, a competitive CTF team taking part in
 ---
 
 ### 🛠️ Tech Stack & Weapons of Choice
+
+<img align="right" src="https://sphynx-blogs.vercel.app/codes.gif" width="260" alt="Matrix Code GIF" style="border-radius: 8px;" />
 
 <p align="left">
   <b>Low-Level & Systems</b><br/>
@@ -109,19 +111,7 @@ Outside of engineering, I lead **MIR4GE**, a competitive CTF team taking part in
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotSphyynxx&theme=radical&hide_border=true&background=140924&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&stroke=140924" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NotSphyynxx&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
-</div>
+<br clear="both" />
 
 ---
 
