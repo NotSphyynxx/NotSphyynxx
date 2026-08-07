@@ -77,7 +77,7 @@ Outside of engineering, I lead **MIR4GE**, a competitive CTF team taking part in
 
 ---
 
-### 🛠️ Tech Stack & Weapons of Choice
+### 🛠️ Tech Stack
 
 <img align="right" src="https://sphynx-blogs.vercel.app/codes.gif" width="260" alt="Matrix Code GIF" style="border-radius: 8px;" />
 
