@@ -1,34 +1,32 @@
 <div align="center">
 
-  <!-- Purple Anime / Cyber Banner -->
-  <img src="https://raw.githubusercontent.com/NotSphyynxx/NotSphyynxx/main/banner.gif" onerror="this.src='https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif'" width="100%" alt="Header Banner" style="border-radius: 10px;" />
+  <!-- Purple Cyberpunk Anime Banner from your Live Blog -->
+  <img src="https://sphynx-blogs.vercel.app/banner.gif" width="100%" alt="Sphynx Banner" />
 
   <br/><br/>
 
   # Ismail Larhrib (Sphynx)
-  <p><b>Software Engineering @ 1337 (42 Network) &bull; SOC & DFIR &bull; Founder @ MIR4GE</b></p>
-
-  <!-- Purple Neon Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=C084FC&center=true&vCenter=true&width=580&lines=Software+Engineer+%40+1337+Coding+School;SOC+Analyst+%26+Digital+Forensics;Captain+%40+Team+MIR4GE;Low-Level+C%2FC%2B%2B+%26+Windows+Internals;Check+out+my+writeups+and+projects+below+%E2%86%93" alt="Typing SVG" />
-
-  <br/>
-
-  <!-- Quick Links Badges in Purple / Violet Theme -->
+  
   <p align="center">
-    <a href="https://sphynx-blogs.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/My_Blog-9333EA?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=160b2b" alt="Blog" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+1337+(42+Network);SOC+Analyst+%7C+Digital+Forensics;Captain+%40+Team+MIR4GE;Low-Level+C%2FC%2B%2B+%26+Windows+Internals" alt="Typing SVG" />
+  </p>
+
+  <!-- Interactive Action Badges -->
+  <p align="center">
+    <a href="https://sphynx-blogs.vercel.app/">
+      <img src="https://img.shields.io/badge/🔮_Blog_%26_Writeups-9333EA?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" />
     </a>
     &nbsp;
-    <a href="https://sphynx-portfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=safari&logoColor=white&labelColor=160b2b" alt="Portfolio" />
+    <a href="https://sphynx-portfolio.vercel.app/">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-A855F7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
     </a>
     &nbsp;
-    <a href="https://sphynx-blogs.vercel.app/cv.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/Resume_/_CV-7E22CE?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=160b2b" alt="CV" />
+    <a href="https://sphynx-blogs.vercel.app/cv.pdf">
+      <img src="https://img.shields.io/badge/📄_Curriculum_Vitae-7E22CE?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV" />
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/ismail-larhrib-b5291932a/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-6B21A8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=160b2b" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/ismail-larhrib-b5291932a/">
+      <img src="https://img.shields.io/badge/LinkedIn-6B21A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 
@@ -43,38 +41,46 @@
 
 ---
 
-### 👾 $ whoami
+### 👾 `$ whoami`
 
-```bash
-Name:         Ismail Larhrib
-Handle:       Sphynx / NotSphyynxx
-School:       1337 Coding School (UM6P / 42 Network)
-Team:         MIR4GE (Founder & Lead)
-Interests:    SOC Analysis, DFIR, Malware Triage, C/C++ Systems
+```yaml
+Operator: Ismail Larhrib
+Alias: Sphynx
+Affiliation: 1337 Coding School (UM6P) / 42 Network
+Team: MIR4GE (Founder & Lead)
+Focus: SOC Operations, DFIR, Malware Analysis & Systems Programming
 ```
 
-I'm a Software Engineering student at **1337 (42 Network)** with a heavy focus on cybersecurity, particularly **Security Operations (SOC)**, **Digital Forensics and Incident Response (DFIR)**, and low-level systems programming. 
+<img align="right" src="https://sphynx-blogs.vercel.app/pixel-city.gif" width="300" alt="Pixel City GIF" style="border-radius: 8px;" />
 
-When I'm not writing C/C++ or analyzing memory dumps, I lead **MIR4GE**, a Moroccan CTF team competing in local and international tournaments.
+I am a Software Engineering student at **1337 (42 Network)** with a deep passion for cybersecurity, threat triage, digital forensics, and low-level C/C++ development. 
 
-- 📝 I document CTF writeups, forensics investigations, and systems research on **[sphynx-blogs.vercel.app](https://sphynx-blogs.vercel.app/)**.
-- 🚀 You can check my projects, roadmap, and background on **[sphynx-portfolio.vercel.app](https://sphynx-portfolio.vercel.app/)**.
+Outside of engineering, I lead **MIR4GE**, a competitive CTF team taking part in regional and international competitions.
+
+- 📝 **Live Blog & CTF Walkthroughs:** [sphynx-blogs.vercel.app](https://sphynx-blogs.vercel.app/)
+- 💻 **Interactive Portfolio:** [sphynx-portfolio.vercel.app](https://sphynx-portfolio.vercel.app/)
+
+<br clear="both" />
 
 ---
 
 ### 🏆 CTF & Competitions
+
+<img align="right" src="https://sphynx-blogs.vercel.app/cyber2.gif" width="260" alt="Cyber GIF" style="border-radius: 8px;" />
 
 - 🥇 **1st Place** — IDEH CTF 2026 *(Team MIR4GE)*
 - 🌍 **1st in Morocco / 22nd Globally** — 0xL4ugh CTF v5 *(out of 1,704 international teams)*
 - 💀 **All Forensics Cleared** — Odyssey CTF Finals 2025 *(Morocco's premier cybersecurity finals)*
 - 🥉 **3rd Place Podium** — Morocco Blockchain & Cryptocurrency Days CTF 2025
 
+<br clear="both" />
+
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Weapons of Choice
 
 <p align="left">
-  <b>Systems & Low-Level</b><br/>
+  <b>Low-Level & Systems</b><br/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
@@ -108,15 +114,13 @@ When I'm not writing C/C++ or analyzing memory dumps, I lead **MIR4GE**, a Moroc
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotSphyynxx&show_icons=true&hide_border=true&bg_color=140924&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" height="165" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSphyynxx&layout=compact&hide_border=true&bg_color=140924&title_color=c084fc&text_color=e9d5ff" height="165" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotSphyynxx&theme=radical&hide_border=true&background=140924&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&stroke=140924" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotSphyynxx&hide_border=true&background=140924&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&stroke=140924" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=NotSphyynxx&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
 </div>
 
 ---
@@ -125,18 +129,18 @@ When I'm not writing C/C++ or analyzing memory dumps, I lead **MIR4GE**, a Moroc
 
 <div align="center">
   <a href="https://sphynx-blogs.vercel.app/">
-    <img src="https://img.shields.io/badge/Blog-9333EA?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=160b2b" alt="Blog" />
+    <img src="https://img.shields.io/badge/Blog-9333EA?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" />
   </a>
   &nbsp;
   <a href="https://sphynx-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=safari&logoColor=white&labelColor=160b2b" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:larhribismail87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=160b2b" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ismail-larhrib-b5291932a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=160b2b" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
