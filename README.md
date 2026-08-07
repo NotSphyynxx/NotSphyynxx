@@ -1,48 +1,56 @@
 <div align="center">
 
-# Ismail Larhrib | SecOps & Software Engineering
+  <!-- Cyberpunk Banner -->
+  <img src="https://raw.githubusercontent.com/NotSphyynxx/NotSphyynxx/main/banner.gif" onerror="this.src='https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif'" width="100%" alt="Sphynx Cyberpunk Header" style="border-radius: 12px;" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+%40+1337+(UM6P);SOC+%7C+Digital+Forensics+%7C+Incident+Response;CTF+Competitor" alt="Typing SVG" />
+  <br/><br/>
 
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ilarhrib" alt="ilarhrib's 42 stats" /></a>
-</p>
+  # ⚡ Ismail Larhrib (Sphynx) ⚡
+  ### 🛡️ SOC Analyst • DFIR Researcher • Systems & Software Engineer
+
+  <!-- Dynamic Typing SVG with Cyberpunk Neon Colors -->
+  <a href="https://sphynx-blogs.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Software+Engineering+%40+1337+(UM6P+%2F+42+Network);SOC+Analyst+%7C+Digital+Forensics+%26+Incident+Response;Founder+%26+Captain+%40+Team+MIR4GE+CTF;Windows+Internals+%7C+Low-Level+Hooking+%7C+Volatility+3;Exploring+the+matrix+one+packet+at+a+time..." alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- 42 Network Badge -->
+  <p align="center">
+    <a href="https://profile.intra.42.fr/users/ilarhrib">
+      <img src="https://badge.mediaplus.ma/greenbinary/ilarhrib" alt="ilarhrib's 42 stats" />
+    </a>
+  </p>
+
+  <!-- Quick Access Live Badges -->
+  <p align="center">
+    <a href="https://sphynx-blogs.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/📖_Live_Blog_%26_Writeups-00F0FF?style=for-the-badge&logo=rss&logoColor=000000&labelColor=0d1117" alt="Blog" />
+    </a>
+    &nbsp;
+    <a href="https://sphynx-portfolio.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-FF007F?style=for-the-badge&logo=safari&logoColor=ffffff&labelColor=0d1117" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="https://sphynx-blogs.vercel.app/cv.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/📄_Curriculum_Vitae-7928CA?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=ffffff&labelColor=0d1117" alt="CV" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/ismail-larhrib-b5291932a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-## 🛡️ Threat Intelligence (About Me)
+### 🔮 `$ whoami`
 
-- 🔍 **Focus Areas:** Security Operations Center (SOC) workflows, Digital Forensics and Incident Response (DFIR), and threat triage.
-- 🎓 **Education:** Software Engineering student at **1337 (42 Network)**.
-- 💻 **Core Stack:** <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
----
-
-## ⚔️ Active Engagement (CTFs & Competitions)
-
-I regularly compete in Jeopardy-style Capture The Flag tournaments as a core competitor and team administrator. 
-
-* 🏆 **IDEH Tournament:** 1st Place
-* 🌍 **0xL4ugh Global CTF:** 22nd Globally (Out of 1,704 teams) | 1st in Regional Frame
-* 🏁 **Odyssey Tournament:** Finals Competitor (Digital Forensics Cleared)
-
----
-
-## 📡 Contact
-
-<div align="center">
-  <a href="mailto:Larhribismail87@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ismail-larhrib-b5291932a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+```yaml
+Operator: Ismail Larhrib
+Alias: Sphynx
+Affiliation: 1337 Coding School (UM6P) / 42 Network
+Unit: Team MIR4GE (Founder & Lead)
+Specialization: Security Operations (SOC), DFIR, Memory Forensics & C/C++ Systems
+Motto: "In a world of noise, capture the signals."
