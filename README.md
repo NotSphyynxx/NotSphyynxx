@@ -8,7 +8,7 @@
   # Ismail Larhrib (Sphynx)
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+1337+(42+Network);SOC+Analyst+%7C+Digital+Forensics;Captain+%40+Team+MIR4GE;Low-Level+C%2FC%2B%2B+%26+Windows+Internals" alt="Typing SVG" />
+    <script src="https://cyberdefenders.org/p/TheSphynx/badge"></script>
   </p>
 
   <!-- Interactive Action Badges -->
