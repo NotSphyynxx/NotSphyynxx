@@ -32,9 +32,7 @@
 
   <!-- 42 Stats Badge -->
   <p align="center">
-    <a href="https://profile.intra.42.fr/users/ilarhrib">
-      <img src="https://badge.mediaplus.ma/greenbinary/ilarhrib" alt="ilarhrib 42 stats" />
-    </a>
+    <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/TheSphynx.png" width="300" />
   </p>
 
 </div>
