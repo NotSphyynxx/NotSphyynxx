@@ -33,7 +33,6 @@
   <!-- 42 Stats Badge -->
   <p align="center">
     <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/TheSphynx.png" width="300" />
-    <script src="https://cyberdefenders.org/p/TheSphynx/badge"></script>
   </p>
 
 </div>
